@@ -2,4 +2,6 @@
 My first repository
 
 
-Hello my self mango.
+Hello my self.
+
+I am doing commit.
